@@ -1,0 +1,14 @@
+wintun filter=lfs diff=lfs merge=lfs -text
+wintun/include filter=lfs diff=lfs merge=lfs -text
+wintun/LICENSE.txt filter=lfs diff=lfs merge=lfs -text
+wintun/README.md filter=lfs diff=lfs merge=lfs -text
+wintun/bin filter=lfs diff=lfs merge=lfs -text
+wintun/bin/arm/wintun.dll filter=lfs diff=lfs merge=lfs -text
+wintun/bin/arm64 filter=lfs diff=lfs merge=lfs -text
+wintun/bin/x86/wintun.dll filter=lfs diff=lfs merge=lfs -text
+wintun/bin/amd64 filter=lfs diff=lfs merge=lfs -text
+wintun/bin/amd64/wintun.dll filter=lfs diff=lfs merge=lfs -text
+wintun/bin/x86 filter=lfs diff=lfs merge=lfs -text
+wintun/include/wintun.h filter=lfs diff=lfs merge=lfs -text
+wintun/bin/arm filter=lfs diff=lfs merge=lfs -text
+wintun/bin/arm64/wintun.dll filter=lfs diff=lfs merge=lfs -text
